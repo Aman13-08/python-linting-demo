@@ -5,4 +5,3 @@ def greet(name):
 greet("John")
 
 
-
